@@ -1,6 +1,7 @@
 # Telecom_Analytics
 Innovant Telecom aims to leverage behavioral data from over 60% of the 50 million mobile devices active daily in India to help their clients better understand and engage with their audiences.
 
+![Home Image](https://github.com/bhavinbhatt278/Telecom_Analytics/blob/main/Telecom_User_Data_Analytics.jpg)
 
 📊 Innovant Telecom Analytics Dashboard
 
